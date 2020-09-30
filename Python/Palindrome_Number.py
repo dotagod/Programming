@@ -10,4 +10,4 @@ def isPalindrome(num):
 	else:
 	    print("Not a palindrome!")
 
-isPalindrome(12321)
+isPalindrome(123321)
